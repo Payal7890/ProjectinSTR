@@ -1,3 +1,3 @@
 # ProjectinSTR
 
-This project basically focuses on special theory of relativity.
+This project basically focuses on special theory of relativity!
